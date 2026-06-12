@@ -72,6 +72,9 @@ a{
 #facebook {
     background-color: #3b5998;
 }
+#vk {
+    background-color: #4c75a3;
+}
 #instagram {
     background-color: #e1306c;
 }
@@ -82,9 +85,9 @@ a{
     color: black;
 }
 .image-container{
-    height: 150px;
-    width: 150px;
-    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
     overflow: hidden;
 }
 .image-container img{
