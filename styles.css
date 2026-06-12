@@ -1,7 +1,13 @@
-body{
+body {
     margin: 0;
     padding: 0;
-    background-color: rgb(10, 10, 10);
+    background: linear-gradient(135deg,
+        #000000 0%,    /* Negro */
+        #003322 30%,   /* Verde oscuro intermedio */
+        #006847 50%,   /* Verde bandera */
+        #003322 70%,   /* Verde oscuro intermedio */
+        #000000 100%   /* Negro */
+    );
     color: rgb(240, 240, 240);
     display: flex;
     align-items: center;
@@ -88,9 +94,6 @@ a{
 }
 #x {
     background-color: #141414;
-}
-.blackFont {
-    color: black;
 }
 .image-container{
     height: 200px;
