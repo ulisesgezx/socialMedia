@@ -3,9 +3,11 @@ body {
     padding: 0;
     background: linear-gradient(135deg,
         #000000 0%,    /* Negro */
-        #003322 30%,   /* Verde oscuro intermedio */
-        #006847 50%,   /* Verde bandera */
-        #003322 70%,   /* Verde oscuro intermedio */
+        #000000 25%,    /* Negro */
+        #003322 40%,   /* Verde oscuro intermedio */
+        #003323 50%,   /* Verde bandera */
+        #003322 60%,   /* Verde oscuro intermedio */
+        #000000 75%,    /* Negro */
         #000000 100%   /* Negro */
     );
     color: rgb(240, 240, 240);
